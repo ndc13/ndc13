@@ -11,15 +11,18 @@ Team members:
 
  
  <div id="badges" style="display: flex; align-items: center;">
- <h2 style="margin-right: 12px;"> :mailbox: Connect with me:</h2>
- <a href="https://troopl.com/neilcairns" style="margin-left: 10px;">
-  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
-</a>
-</div>
+ <h2 style="margin-right: 10px;"> :mailbox: Connect with me:</h2>
+ 
+ </div>
   <a href="https://www.linkedin.com/in/neildanielcairns/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+ 
+ <a href="https://troopl.com/neilcairns" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
+</a>
+
 
 ### :hammer_and_wrench: Some of the tools I’m using:
 <div style="width: 100%;">
