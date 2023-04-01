@@ -11,7 +11,7 @@ Team members:
 
  
  <div id="badges" style="display: flex; align-items: center;">
- <h2 style="margin-right: 10px;"> :mailbox: Connect with me:</h2>
+ <h3 style="margin-right: 10px;"> :mailbox: Connect with me:</h3>
  
  </div>
   <a href="https://www.linkedin.com/in/neildanielcairns/" style="margin-right: 10px;">
