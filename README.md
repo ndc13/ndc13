@@ -13,7 +13,8 @@ Team members:
  :mailbox:How to reach me: 
  
  <div id="badges" style="display: flex; align-items: center;">
- <a href="https://troopl.com/neilcairns">
+ <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
+ <a href="https://troopl.com/neilcairns" style="margin-left: 10px;">
   <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
 </a>
 </div>
