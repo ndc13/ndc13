@@ -21,9 +21,6 @@ Team members:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
- <a href="mailto:neilcairns@me.com">
-    <img src="https://img.shields.io/badge/-Apple%40Mail-lightgrey" alt="Apple Mail Badge"/>
-  </a>
 
 ### :hammer_and_wrench: Some of the tools I’m using:
 <div style="width: 100%;">
