@@ -12,7 +12,7 @@ Team members:
 
  :mailbox:How to reach me: 
  
- <div id="badges">
+ <div id="badges" style="display: flex; align-items: center;>
  <a href="https://troopl.com/neilcairns">
   <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
 </a>
@@ -21,6 +21,9 @@ Team members:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+ <a href="mailto:neilcairns@me.com">
+    <img src="https://img.shields.io/badge/-Apple%20Mail-lightgrey" alt="Apple Mail Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Some of the tools I’m using:
 <div style="width: 100%;">
