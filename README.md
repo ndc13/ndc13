@@ -9,16 +9,14 @@ Team members:
 - [Robbie](https://www.linkedin.com/in/robbie-stanley-smith-614523146/)
 - [Felix](https://github.com/FelixMitch)
 
-
- :mailbox:How to reach me: 
  
  <div id="badges" style="display: flex; align-items: center;">
- <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
+ <h2 style="margin-right: 12px;"> :mailbox: Connect with me:</h2>
  <a href="https://troopl.com/neilcairns" style="margin-left: 10px;">
   <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
 </a>
 </div>
-  <a href="https://www.linkedin.com/in/neildanielcairns/">
+  <a href="https://www.linkedin.com/in/neildanielcairns/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
