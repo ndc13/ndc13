@@ -11,8 +11,13 @@ Team members:
 
 
  :mailbox:How to reach me: 
+ 
+ <div id="badges">
+ <a href="https://troopl.com/neilcairns" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
+</a>
+</div>
 
-<div id="badges">
   <a href="https://www.linkedin.com/in/neildanielcairns/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
