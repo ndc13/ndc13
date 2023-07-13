@@ -4,11 +4,6 @@ I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/f
 
 I’m currently working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency!
 
-Team members:
-- [Niklas](https://github.com/joshba06)
-- [Robbie](https://www.linkedin.com/in/robbie-stanley-smith-614523146/)
-- [Felix](https://github.com/FelixMitch)
-
  
  <div id="badges" style="display: flex; align-items: center;">
  <h3 style="margin-right: 10px;"> :mailbox: Connect with me:</h3>
