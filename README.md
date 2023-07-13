@@ -4,10 +4,9 @@ I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/f
 
 I’m currently working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency!
 
-Team members:
-- [Niklas](https://github.com/joshba06)
-- [Robbie](https://www.linkedin.com/in/robbie-stanley-smith-614523146/)
-- [Felix](https://github.com/FelixMitch)
+I am also continuing me learning with codecademy, attempting to learn React, Python and Swift. 
+
+In August '23 I start AWS Cloud Practitioner, Architect and Professional - the aim to understand cloud architecture and how code works with it. 
 
  
  <div id="badges" style="display: flex; align-items: center;">
