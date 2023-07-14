@@ -2,7 +2,11 @@
 
 I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon and am now an aspiring Full Stack Developer.
 
-I’m currently working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! As well as this, I am studying React, Python and Swfit. In August I start AWS Cloud Practitioner, Architect and Professional. 
+At the satart of the year, i was workign on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
+
+Since this project, I have been studying a mixture of React, Python and Swfit with codecademy. 
+
+In August I start AWS Cloud Practitioner, Architect and Professional. 
  
  <div id="badges" style="display: flex; align-items: center;">
  <h3 style="margin-right: 10px;"> :mailbox: Connect with me:</h3>
