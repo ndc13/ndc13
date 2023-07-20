@@ -1,6 +1,6 @@
 ###  About Me :
 
-I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon and am now an aspiring Full Stack Developer.
+I graduated <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon in March '23 and am now an aspiring Full Stack Web Developer. I particularly enjoy front end technologies. 
 
 At the satart of the year, I was busy working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
 
