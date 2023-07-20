@@ -2,10 +2,11 @@
 
 I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon and am now an aspiring Full Stack Developer.
 
-At the satart of the year, i was workign on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
+At the satart of the year, I was busy working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
+
 I also opened a Shopify store selling Motorcycle accessories at [MotorcycleMania](http://www.motorcyclemania.co.uk)
 
-Since this project, I have been studying a mixture of React, Python and Swfit with codecademy. 
+Since these projects, I have been studying a mixture of languages including React, Python and Swfit with codecademy. 
 
 In August I start AWS Cloud Practitioner, Architect and Professional. 
  
