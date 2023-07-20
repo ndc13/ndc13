@@ -3,13 +3,14 @@
 I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon and am now an aspiring Full Stack Developer.
 
 At the satart of the year, i was workign on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
+I also opened a Shopify store selling Motorcycle accessories at http://www.motorcyclemania.co.uk 
 
 Since this project, I have been studying a mixture of React, Python and Swfit with codecademy. 
 
 In August I start AWS Cloud Practitioner, Architect and Professional. 
  
  <div id="badges" style="display: flex; align-items: center;">
- <h3 style="margin-right: 10px;"> :mailbox: Connect with me:</h3>
+ <h3 style="margin-right: 8px;"> :mailbox: Connect with me:</h3>
  
  </div>
   <a href="https://www.linkedin.com/in/neildanielcairns/" style="margin-right: 10px;">
