@@ -31,31 +31,6 @@ In August I start AWS Cloud Practitioner, Architect and Professional.
   </a>
 </div>
 
-<div style="width: 100%;">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618289/github-user-contribution_fg1pol.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618356/github-user-contribution_1_xfp3ny.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
-
-### :fire: My Stats :
-  <div style="width=100">
-  <div style="flex:1; width:50%;">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=ndc13&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ndc13&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=ndc13&show_icons=true" />
-    </picture>
-  </div>
-</div>
-
 <!--
 **neilcairns/neilcairns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
