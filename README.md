@@ -8,7 +8,7 @@ I also opened a Shopify store selling Motorcycle accessories at [MotorcycleMania
 
 Since these projects, I have been studying a mixture of languages including React, Python and Swfit with codecademy. 
 
-In August I started AWS Cloud Practitioner, Architect and in September and October I continue to Professional. 
+In August I started AWS Cloud Practitioner, Architect in September and in October I continue the Professional/Advanced Architecting course. 
  
  <div id="badges" style="display: flex; align-items: center;">
  <h3 style="margin-right: 8px;"> :mailbox: Connect with me:</h3>
