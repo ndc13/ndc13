@@ -2,13 +2,15 @@
 
 I graduated <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon in March '23 and am now an aspiring Full Stack Web Developer. I particularly enjoy front end technologies. 
 
-At the satart of the year, I was busy working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
+In March '23 I was busy working on [myRoutes](http://www.my-routes.co.uk) - Maximise your travel efficiency! 
 
-I also opened a Shopify store selling Motorcycle accessories at [MotorcycleMania](http://www.motorcyclemania.co.uk)
+I also opened a Shopify store selling Motorcycle accessories at [MotorcycleMania](http://www.motorcyclemania.co.uk) although have closed this temporarily. 
 
 Since these projects, I have been studying a mixture of languages including React, Python and Swfit with codecademy. 
 
 In August I started AWS Cloud Practitioner, Architect in September and in October I continue the Professional/Advanced Architecting course. 
+
+I moved houses at the end of the year, and am now looking at current opportunities. 
  
  <div id="badges" style="display: flex; align-items: center;">
  <h3 style="margin-right: 8px;"> :mailbox: Connect with me:</h3>
